@@ -10,11 +10,11 @@ Learn how to create and deploy an AI Image Art Generator app from scratch using 
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-your-own-ai-image-art-generator-app-or-next.js-node.js-express-and-mongodb)
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/0TwuL8V9zUE?si=UFuWkzh-DofBndjp)
+- [Final Code Setup video](https://youtu.be/mZ3fAZgIzv0?si=FHHc1jwz8tq3Cd4B)
 
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
