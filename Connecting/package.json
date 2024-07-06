@@ -1,0 +1,36 @@
+{
+  "name": "ai-image-art",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": " node index.js",
+    "build": "next build",
+    "start": "node index.js",
+    "lint": "next lint",
+    "server": "node index.js",
+    "prod": "node index.js"
+  },
+  "dependencies": {
+    "@next/font": "13.4.13",
+    "axios": "^1.6.8",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "file-saver": "^2.0.5",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.3",
+    "multer": "^1.4.5-lts.1",
+    "next": "13.4.13",
+    "nodemon": "^3.0.2",
+    "openai": "^4.52.2",
+    "path": "^0.12.7",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.10.1",
+    "sharp": "^0.33.4"
+  }
+}

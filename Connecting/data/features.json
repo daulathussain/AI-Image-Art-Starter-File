@@ -1,0 +1,101 @@
+[
+  {
+    "plan": "Max plan",
+    "price": "$50",
+    "type": "Images",
+    "billing": "Both Model V2 - V3",
+    "monthly": " Get creadit anytime",
+    "annualy": "Save with Max plan (20%)",
+    "generateAmount": "7,000",
+    "generateTitle": "fast generations per minutes",
+    "service": "Unlimited",
+    "serviceTitle": "slow generations",
+    "link": "https://buy.stripe.com/test_5kA8zY9Xn2c3faU4gl",
+    "features": [
+      {
+        "item": "3 concurrent fast jobs"
+      },
+      {
+        "item": "Images are private"
+      },
+      {
+        "item": "Custom aspect ratios"
+      },
+      {
+        "item": "Image uploads"
+      },
+      {
+        "item": "Optional credit top-ups"
+      },
+      {
+        "item": "Early access to new models"
+      }
+    ]
+  },
+  {
+    "plan": "Pro plan",
+    "price": "$30",
+    "type": "Images",
+    "billing": "Both Model V2 - V3",
+    "monthly": " Get creadit anytime",
+    "annualy": "Save with Max plan (10%)",
+    "generateAmount": "3,000",
+    "generateTitle": "fast generations per minutes",
+    "service": "Unlimited",
+    "serviceTitle": "slow generations",
+    "link": "https://buy.stripe.com/test_aEUaI6b1r3g72o828b",
+    "features": [
+      {
+        "item": "3 concurrent fast jobs"
+      },
+      {
+        "item": "Images are private"
+      },
+      {
+        "item": "Custom aspect ratios"
+      },
+      {
+        "item": "Image uploads"
+      },
+      {
+        "item": "Optional credit top-ups"
+      },
+      {
+        "item": "Early access to new models"
+      }
+    ]
+  },
+  {
+    "plan": "Starter plan",
+    "price": "$10",
+    "type": "Images",
+    "billing": "Both Model V2 - V3",
+    "monthly": " Get creadit anytime",
+    "annualy": "Save with Max plan (0%)",
+    "generateAmount": "7,000",
+    "generateTitle": "fast generations per minutes",
+    "service": "Unlimited",
+    "serviceTitle": "slow generations",
+    "link": "https://buy.stripe.com/test_00gaI61qR03V1k45ko",
+    "features": [
+      {
+        "item": "3 concurrent fast jobs"
+      },
+      {
+        "item": "Images are private"
+      },
+      {
+        "item": "Custom aspect ratios"
+      },
+      {
+        "item": "Image uploads"
+      },
+      {
+        "item": "Optional credit top-ups"
+      },
+      {
+        "item": "Early access to new models"
+      }
+    ]
+  }
+]

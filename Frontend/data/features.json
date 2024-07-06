@@ -1,0 +1,98 @@
+[
+  {
+    "plan": "Max plan",
+    "price": "$48",
+    "type": "month",
+    "billing": "Billed annually",
+    "monthly": " View monthly billing",
+    "annualy": "Save with annual billing (20%)",
+    "generateAmount": "7,000",
+    "generateTitle": "fast generations per month",
+    "service": "Unlimited",
+    "serviceTitle": "slow generations",
+    "features": [
+      {
+        "item": "3 concurrent fast jobs"
+      },
+      {
+        "item": "Images are private"
+      },
+      {
+        "item": "Custom aspect ratios"
+      },
+      {
+        "item": "Image uploads"
+      },
+      {
+        "item": "Optional credit top-ups"
+      },
+      {
+        "item": "Early access to new models"
+      }
+    ]
+  },
+  {
+    "plan": "Pro plan",
+    "price": "$24",
+    "type": "month",
+    "billing": "Billed monthly",
+    "monthly": " View monthly billing",
+    "annualy": "Save with annual billing (20%)",
+    "generateAmount": "7,000",
+    "generateTitle": "fast generations per month",
+    "service": "Unlimited",
+    "serviceTitle": "slow generations",
+    "features": [
+      {
+        "item": "3 concurrent fast jobs"
+      },
+      {
+        "item": "Images are private"
+      },
+      {
+        "item": "Custom aspect ratios"
+      },
+      {
+        "item": "Image uploads"
+      },
+      {
+        "item": "Optional credit top-ups"
+      },
+      {
+        "item": "Early access to new models"
+      }
+    ]
+  },
+  {
+    "plan": "Starter plan",
+    "price": "$10",
+    "type": "month",
+    "billing": "Billed annually",
+    "monthly": " View monthly billing",
+    "annualy": "Save with annual billing (20%)",
+    "generateAmount": "7,000",
+    "generateTitle": "fast generations per month",
+    "service": "Unlimited",
+    "serviceTitle": "slow generations",
+    "features": [
+      {
+        "item": "3 concurrent fast jobs"
+      },
+      {
+        "item": "Images are private"
+      },
+      {
+        "item": "Custom aspect ratios"
+      },
+      {
+        "item": "Image uploads"
+      },
+      {
+        "item": "Optional credit top-ups"
+      },
+      {
+        "item": "Early access to new models"
+      }
+    ]
+  }
+]
