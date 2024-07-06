@@ -98,7 +98,7 @@ Once you download the final source code, you will get a ZIP file, then you will 
   GET: https://stripe.com/
 ```
 
-#### FRONTEND ENVIRONMENT VERIABLE
+#### FRONTEND ENVIRONMENT VARIABLE
 
 ```
     NEXT_PUBLIC_OPEN_AI_KEY= YOUR_OPENAI_KEY
@@ -122,7 +122,7 @@ Once you download the final source code, you will get a ZIP file, then you will 
     NEXT_PUBLIC_STARTER_PLAN= 50
 ```
 
-#### FRONTEND ENVIRONMENT VERIABLE
+#### BACKEND ENVIRONMENT VARIABLE
 
 ```
     NODE_ENV=development
